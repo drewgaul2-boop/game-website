@@ -1,0 +1,758 @@
+[
+ {
+  "title": "Slope",
+  "category": "Arcade",
+  "description": "Navigate a rolling ball down a fast-paced 3D slope while avoiding obstacles.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Retro Bowl",
+  "category": "Sports",
+  "description": "Manage an American football team, recruit players, and compete for championships.",
+  "creator": "New Star Games",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/g/retro-bowl/"
+ },
+ {
+  "title": "DeadShot.io",
+  "category": "Shooter",
+  "description": "A fast-paced multiplayer first-person shooter featuring competitive online combat.",
+  "creator": "",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Gunspin",
+  "category": "Arcade",
+  "description": "Use the recoil of a gun to propel it across the screen and travel as far as possible.",
+  "creator": "Light Wolf Studios",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "1v1.lol",
+  "category": "Shooter",
+  "description": "Compete against other players in building and shooting battles.",
+  "creator": "JustPlay.LOL",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Block Blast",
+  "category": "Puzzle",
+  "description": "Fit differently shaped blocks into a grid to clear rows and columns.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Idle Breakout",
+  "category": "Arcade",
+  "description": "Break bricks using bouncing balls while upgrading automated damage and earning resources.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Learn To Fly",
+  "category": "Arcade",
+  "description": "Launch a penguin into the air and purchase upgrades to fly farther.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Baldi's Basics",
+  "category": "Horror",
+  "description": "Explore a strange school while solving problems and avoiding a pursuing teacher.",
+  "creator": "Basically Games",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Gun Mayhem",
+  "category": "Shooter",
+  "description": "Battle opponents in platform arenas using weapons and knockback mechanics.",
+  "creator": "Kevin Gu",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Gun Mayhem 2",
+  "category": "Shooter",
+  "description": "Fight opponents across multiple arenas with new weapons and customizable characters.",
+  "creator": "Kevin Gu",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Wall Smash",
+  "category": "Arcade",
+  "description": "Break through walls and obstacles while progressing through challenging levels.",
+  "creator": "",
+  "multiplayer": "Unknown",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "FNAF 1",
+  "category": "Horror",
+  "description": "Survive five nights as a security guard while monitoring dangerous animatronics.",
+  "creator": "Scott Cawthon",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "FNAF 2",
+  "category": "Horror",
+  "description": "Survive another series of nights by monitoring cameras and defending against animatronics.",
+  "creator": "Scott Cawthon",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Drift Boss",
+  "category": "Racing",
+  "description": "Steer a vehicle around sharp corners on a suspended track without falling off.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Jack Smith",
+  "category": "Arcade",
+  "description": "Forge weapons for adventurers and prepare equipment for their journeys.",
+  "creator": "Flipline Studios",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Image Tracer",
+  "category": "Puzzle",
+  "description": "Trace images and shapes using drawing and precision.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Infinite Craft",
+  "category": "Sandbox",
+  "description": "Combine words and elements to discover new creations in an open-ended crafting experience.",
+  "creator": "Neal Agarwal",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Crazy Tunnel 3D",
+  "category": "Arcade",
+  "description": "Navigate a fast-moving tunnel filled with obstacles and sharp turns.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Lazy Jump 3D",
+  "category": "Arcade",
+  "description": "Guide a floppy character through physics-based obstacles and challenges.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "House Of Hazards",
+  "category": "Multiplayer",
+  "description": "Compete with friends in a chaotic house filled with unexpected traps and hazards.",
+  "creator": "New Eich Games",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Hole.io",
+  "category": "Arcade",
+  "description": "Control a growing black hole and swallow objects and opponents around the city.",
+  "creator": "Voodoo",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Cut The Rope",
+  "category": "Puzzle",
+  "description": "Cut ropes and manipulate objects to deliver candy to the character Om Nom.",
+  "creator": "ZeptoLab",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Tank Trouble",
+  "category": "Shooter",
+  "description": "Battle tanks in maze arenas while avoiding enemy fire and ricocheting projectiles.",
+  "creator": "",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Drift Hunters",
+  "category": "Racing",
+  "description": "Drive customizable cars and earn points by performing drifting maneuvers.",
+  "creator": "Ilya Kaminetsky",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Volley Random",
+  "category": "Sports",
+  "description": "Play unpredictable volleyball matches with physics-based characters.",
+  "creator": "RHM Interactive",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Draw The Hill",
+  "category": "Racing",
+  "description": "Draw paths to guide a vehicle across hills and challenging terrain.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Basketball Bros",
+  "category": "Sports",
+  "description": "Compete in arcade basketball matches featuring fast-paced shooting and dunking.",
+  "creator": "Blue Wizard Digital",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Just Fall",
+  "category": "Arcade",
+  "description": "Compete in an elimination challenge while navigating slippery platforms.",
+  "creator": "",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Snow Rider 3D",
+  "category": "Arcade",
+  "description": "Ride a sled downhill while dodging trees and collecting presents.",
+  "creator": "Hyped Pixels",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Tetris",
+  "category": "Puzzle",
+  "description": "Arrange falling geometric blocks to complete and clear horizontal lines.",
+  "creator": "Alexey Pajitnov",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Checkout Frenzy",
+  "category": "Simulation",
+  "description": "Manage a busy checkout counter and process customers efficiently.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Fireboy & Watergirl",
+  "category": "Puzzle",
+  "description": "Control two elemental characters and solve cooperative puzzles to reach the exits.",
+  "creator": "Oslo Albet",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Tiny Fishing",
+  "category": "Arcade",
+  "description": "Cast a fishing line, catch fish, and earn money to upgrade fishing equipment.",
+  "creator": "Madbox",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Time Shooter",
+  "category": "Shooter",
+  "description": "Fight enemies in a first-person shooter where time moves when you move.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Getaway Shootout",
+  "category": "Action",
+  "description": "Race opponents through obstacle-filled levels using unusual movement and weapons.",
+  "creator": "New Eich Games",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Soccer Random",
+  "category": "Sports",
+  "description": "Play unpredictable soccer matches with randomized physics and environments.",
+  "creator": "RHM Interactive",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Crossy Road",
+  "category": "Arcade",
+  "description": "Guide a character across roads, rivers, and railway tracks without getting hit.",
+  "creator": "Hipster Whale",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Rooftop Sniper",
+  "category": "Shooter",
+  "description": "Knock opponents off rooftops using precise shots and physics-based combat.",
+  "creator": "New Eich Games",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Boxing Random",
+  "category": "Sports",
+  "description": "Compete in chaotic boxing matches featuring randomized physics and characters.",
+  "creator": "RHM Interactive",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Adventure Capitalist",
+  "category": "Strategy",
+  "description": "Build businesses, invest profits, and expand an increasingly profitable empire.",
+  "creator": "Hyper Hippo",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Hide & Smash",
+  "category": "Multiplayer",
+  "description": "Play hide-and-seek style rounds involving disguises and smashing opponents.",
+  "creator": "",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "MonkeyMart",
+  "category": "Simulation",
+  "description": "Manage a supermarket run by monkeys by stocking shelves and serving customers.",
+  "creator": "TinyDobbins",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Retro Bowl College",
+  "category": "Sports",
+  "description": "Manage a college football team, recruit players, and compete for championships.",
+  "creator": "New Star Games",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Windows Desktop",
+  "category": "Simulation",
+  "description": "Explore a simulated Windows desktop environment and interact with its applications.",
+  "creator": "",
+  "multiplayer": "Unknown",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Minecraft",
+  "category": "Sandbox",
+  "description": "Explore procedurally generated worlds, gather resources, build structures, and survive.",
+  "creator": "Mojang Studios",
+  "multiplayer": "Unknown",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Bloons TD5",
+  "category": "Strategy",
+  "description": "Build defensive towers and stop waves of balloons from reaching the exit.",
+  "creator": "Ninja Kiwi",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Mr Mine",
+  "category": "Simulation",
+  "description": "Mine underground resources, upgrade equipment, and build a mining operation.",
+  "creator": "Playsaurus",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Run 2",
+  "category": "Platformer",
+  "description": "Navigate challenging 3D tunnels as a character who can run along walls and ceilings.",
+  "creator": "Player 03",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Run 3",
+  "category": "Platformer",
+  "description": "Explore increasingly difficult space tunnels using gravity-defying movement.",
+  "creator": "Player 03",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Spend Elon's Money",
+  "category": "Simulation",
+  "description": "Spend an enormous virtual fortune by purchasing expensive items and experiences.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Plants V Zombies",
+  "category": "Strategy",
+  "description": "Defend your home from waves of zombies using strategically placed plants.",
+  "creator": "PopCap Games",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Duck Life",
+  "category": "Arcade",
+  "description": "Train a duck in different athletic skills and compete in races.",
+  "creator": "Wix Games",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Mine Sweeper",
+  "category": "Puzzle",
+  "description": "Reveal safe squares while avoiding hidden mines using numerical clues.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Pixel Gun",
+  "category": "Shooter",
+  "description": "Fight opponents using pixel-style weapons in blocky multiplayer environments.",
+  "creator": "Cubic Games",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Google Snake",
+  "category": "Arcade",
+  "description": "Control a growing snake and collect food without hitting walls or yourself.",
+  "creator": "Google",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "N Gon",
+  "category": "Action",
+  "description": "Play a physics-based arcade game featuring challenging movement and obstacles.",
+  "creator": "",
+  "multiplayer": "Unknown",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "OVO",
+  "category": "Platformer",
+  "description": "Run, jump, slide, and navigate challenging platform levels using precise controls.",
+  "creator": "Dedra Games",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Basketball Stars",
+  "category": "Sports",
+  "description": "Compete in basketball matches featuring shooting, steals, and defensive moves.",
+  "creator": "Madpuffers",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Stacktris",
+  "category": "Puzzle",
+  "description": "Stack and arrange falling blocks to build stable structures.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Black Jack",
+  "category": "Card",
+  "description": "Play blackjack by drawing cards and trying to reach 21 without going over.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "DBZ Devolution",
+  "category": "Fighting",
+  "description": "Play a Dragon Ball-inspired fighting game featuring characters and special attacks.",
+  "creator": "MiniPlay",
+  "multiplayer": "Unknown",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Drive Mad",
+  "category": "Racing",
+  "description": "Drive unusual vehicles across physics-based obstacle courses without crashing.",
+  "creator": "Martin Magni",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Papa's Games",
+  "category": "Simulation",
+  "description": "Manage restaurant businesses by preparing food, serving customers, and completing orders.",
+  "creator": "Flipline Studios",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Stickman Games",
+  "category": "Action",
+  "description": "Collection of stickman-themed games featuring action, challenges, and platforming.",
+  "creator": "",
+  "multiplayer": "Unknown",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Vex Games",
+  "category": "Platformer",
+  "description": "Navigate dangerous obstacle courses using running, jumping, and wall climbing.",
+  "creator": "Azerion",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "2048",
+  "category": "Puzzle",
+  "description": "Combine matching numbered tiles to create a tile with the value 2048.",
+  "creator": "Gabriele Cirulli",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Paper.io 2",
+  "category": "Arcade",
+  "description": "Capture territory by drawing loops while avoiding opponents and protecting your trail.",
+  "creator": "Voodoo",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Bitlife",
+  "category": "Simulation",
+  "description": "Experience a text-based life simulator where choices determine your character's future.",
+  "creator": "Candywriter",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "1",
+  "category": "Puzzle",
+  "description": "A numerical puzzle game identified by the title 1.",
+  "creator": "",
+  "multiplayer": "Unknown",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Subway Surfers",
+  "category": "Arcade",
+  "description": "Run along subway tracks while avoiding trains and collecting coins.",
+  "creator": "SYBO",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Basketball Random",
+  "category": "Sports",
+  "description": "Play chaotic basketball matches with unpredictable characters and physics.",
+  "creator": "RHM Interactive",
+  "multiplayer": "Yes",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "MotoX3M",
+  "category": "Racing",
+  "description": "Ride a motorcycle through obstacle courses filled with ramps, traps, and jumps.",
+  "creator": "Madpuffers",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Cookie Clicker",
+  "category": "Idle",
+  "description": "Bake cookies by clicking and purchasing upgrades that automate production.",
+  "creator": "Orteil",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Temple Run 2",
+  "category": "Arcade",
+  "description": "Run through dangerous ancient environments while avoiding obstacles and collecting coins.",
+  "creator": "Imangi Studios",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Stickman Golf",
+  "category": "Sports",
+  "description": "Play golf using a stickman character across challenging courses.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "CSGO Case Opener",
+  "category": "Simulation",
+  "description": "Open virtual weapon cases and discover randomized cosmetic items.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Pandemic 2",
+  "category": "Strategy",
+  "description": "Develop and spread a disease around the world while adapting to global responses.",
+  "creator": "Dark Realm Studios",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Riddle School Games",
+  "category": "Puzzle",
+  "description": "Solve puzzles and escape situations across a series of point-and-click adventures.",
+  "creator": "JonBro",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Cupcake 2048",
+  "category": "Puzzle",
+  "description": "Combine matching cupcake tiles to create increasingly advanced desserts.",
+  "creator": "",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Jetpack Joyride",
+  "category": "Arcade",
+  "description": "Fly through a laboratory using a jetpack while avoiding hazards and collecting coins.",
+  "creator": "Halfbrick Studios",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Geometry Dash",
+  "category": "Platformer",
+  "description": "Jump and fly through rhythm-based obstacle courses synchronized to music.",
+  "creator": "RobTop Games",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Duck Life 1",
+  "category": "Arcade",
+  "description": "Train a duck in running, swimming, flying, and climbing before competing in races.",
+  "creator": "Wix Games",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/"
+ },
+ {
+  "title": "Sand Boxels",
+  "category": "Sandbox",
+  "description": "Experiment with falling sand, liquids, powders, and interactive elements in a simulated environment.",
+  "creator": "R74n",
+  "multiplayer": "No",
+  "thumbnail": "",
+  "url": "https://games.proll.dev/g/sandboxels/"
+ }
+]
